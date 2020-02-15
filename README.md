@@ -1,2 +1,2 @@
-# member-card-gutenberg-block
-Gutenberg block for Team Member Profile
+# Gutenberg block for Team Member Profile
+Happy Coding :) 
