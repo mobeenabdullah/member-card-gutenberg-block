@@ -1,0 +1,25 @@
+.team-profile-card {
+    margin: 20px;
+    max-width: 400px !important;
+}
+.team-profile-card .profile-image {
+    background: #f1f1f1;
+}
+.team-profile-card .profile-image img {
+    max-width: 100%;
+}
+.team-profile-card .profile-info {
+    padding: 20px 10px 10px;
+    font-family: sans-serif;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+.team-profile-card .profile-info h3 {
+    margin: 0 0 10px 0;
+}
+.team-profile-card .profile-info h5 {
+    margin: 0;
+}
+.team-profile-card .profile-info p {
+    font-size: 14px;
+}
